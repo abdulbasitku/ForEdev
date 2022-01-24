@@ -1,0 +1,95 @@
+*{
+  margin: 0;
+  /* background-color: #282c34;
+   */
+
+}
+/* .App {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+.dropbox {
+  background-color: #648fe4;
+  justify-self: center;
+  align-self: center;
+  justify-content: space-evenly;
+  width: 90%;
+  
+}
+.dropboxContainer {
+  background-color: #648fe4;
+  border-style: dashed;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  min-height: 20vh;
+  color: antiquewhite;
+  justify-content: space-around;
+  align-items: center;
+  align-content: space-around;
+}
+.fileUploadButton {
+  background-color: #5479c4e8;
+  border-radius: 10px;
+}
+.navBar {
+  padding: 20px;
+  display: flex;
+  /* max-width: 600px; */
+  justify-items: flex-start;
+  margin: 0 auto;
+  min-width: 900px;
+  /* min-width: 70%; */
+  border-bottom: 1px solid #f2f2f2;
+  color: antiquewhite;
+  justify-content: space-evenly;
+  align-items: stretch;
+  align-content: space-between;
+}
+.navBar h1 {
+  color: #5479c4e8;
+}
+.navBar .links{
+  margin-left: auto;
+}
+.navBar li {
+  
+  color: #6894eee8;
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navBar li:hover{
+  color:#001847e8;
+}
+.Home{
+  color: #648fe4;
+  font-weight: lighter;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+
+}
+.Home 
+
+.content{
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}

@@ -1,0 +1,2 @@
+D:\Project\WebAPI_DataLoader\WebAPI_DataLoader\obj\Release\WebAPI_DataLoader.csprojAssemblyReference.cache
+D:\Project\WebAPI_DataLoader\WebAPI_DataLoader\obj\Release\WebAPI_DataLoader.csproj.CoreCompileInputs.cache
